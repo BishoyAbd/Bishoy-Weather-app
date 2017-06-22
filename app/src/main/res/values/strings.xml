@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Bishoy Weather</string>
+    <!--Activities-->
+    <string name="title_activity_details">Details</string>
+    <string name="title_activity_settings">Settings</string>
+    <!--Date templates-->
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <!--Details Activity values-->
+    <string name="day">Wednesday</string>
+    <string name="date">2017–1-1</string>
+    <string-array name="city_list">
+        <item > cairo</item>
+        <item > london</item>
+        <item > zurich</item>
+        <item > chelsy</item>
+        <item > liverpool</item>
+        <item > Moscow	</item>
+        <item > Delhi	</item>
+        <item > Osaka-shi</item>
+        <item > kobe</item>
+        <item > tokyo</item>
+        <item > yakohama</item>
+        <item > Alexandria</item>
+
+    </string-array>
+
+
+
+    <!--Temperature-->
+    <string name="temp_metrics">%d °C</string>
+    <!--Humidity-->
+    <string name="humidity_desc">Humidity: </string>
+    <string name="humidity_val"> %</string>
+    <!--Pressure-->
+    <string name="pressure_desc">Pressure: </string>
+    <string name="pressure_val"> hPa</string>
+    <!--Wind-->
+    <string name="wind_speed" />
+    <string name="wind_deg" />
+    <string name="wind_desc">Wind: </string>
+    <string name="wind_val"> km/h E</string>
+    <!--Description-->
+    <string name="description">\Rain</string>
+    <!--Image-->
+    <string name="image_desc">Image</string>
+    <!--Main Activity values-->
+    <string name="latitude" />
+    <string name="longitude" />
+    <string name="latitude_short">Lat: </string>
+    <string name="longitude_short">Long: </string>
+    <string name="geo_coord" />
+    <!--Settings Activity values-->
+    <string name="settings_header_location">Location preferences</string>
+    <string name="settings_summary_location">Get weather forecast for your actual location.</string>
+    <string name="settings_location">Location</string>
+    <string name="settings_location_city_header">Change city</string>
+    <string name="settings_location_city_summary">Currently: %s</string>
+    <!--Settings Activity values - OLD-->
+    <string name="imperial">Imperial</string>
+    <string name="metric">Metric</string>
+    <string name="temperature_units">Temperature Units</string>
+    <string name="weatherNotifications">Weather Notifications</string>
+    <string name="time_format_title">Local Time Format</string>
+    <string name="time_format_24h">24 Hour Clock</string>
+    <string name="time_format_12h">AM / PM</string>
+    <!--Sharing intent-->
+    <string name="share_message_subject">Weather forecast, %s</string>
+    <string name="share_message_choose" />
+    <!--If something goes wrong-->
+    <string name="description_not_available">Description is not available</string>
+    <string name="error_function_not_available">Function is not already available.</string>
+    <string name="error_download_data">Error caused when trying to download data!</string>
+    <string name="error_again_message">Try again</string>
+    <!--If something goes good-->
+    <string name="operation_successful">The operation completed successfully</string>
+    <!--OpenWeatherMAp API Key-->
+    <string name="API_ID">cf28f00904e59e7ba0fc080879080861</string>
+    <!-- Language of phone-->
+    <string name="lang">en</string>
+    <!--Action bar values-->
+    <string name="action_settings">Settings</string>
+    <string name="action_map">Map location</string>
+    <!--SettingsActivity values-->
+    <string name="pref_location_default" translatable="false">Poznan</string>
+    <string name="pref_location_key" translatable="false">settings_edit_city_name</string>
+
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="low_temp">Low Temperature</string>
+    <string name="high_temp">High Temperature</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="cityList" />
+    <string name="city_name">city</string>
+</resources>

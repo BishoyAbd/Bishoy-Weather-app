@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="grey">#cccccc</color>
+    <color name="grey_700">#646464</color>
+    <color name="black">#000000</color>
+
+    <color name="colorPrimary">#D7E5FF</color>
+    <color name="colorPrimaryDark">#309F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="sky_color">#B3CEFF</color>
+    <color name="sky_color_pressed">#D7E5FF</color>
+    <color name="semiTransparentWhite">#40FFFFFF</color>
+    <color name="snow">#FAFAFA</color>
+    <color name="manatee">#8D95A1</color>
+
+
+
+
+
+</resources>
