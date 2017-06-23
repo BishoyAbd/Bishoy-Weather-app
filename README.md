@@ -9,5 +9,3 @@ This is a simple weather app is made using android,the project is made using MVP
 * Glid for downloading and caching images.
 * Calgraphy lib to assign fonts.
 
-
-
