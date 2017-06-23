@@ -2,9 +2,6 @@ package com.projects.cactus.weatherapp.util;
 
 import com.projects.cactus.weatherapp.R;
 
-/**
- * @author piotr on 23.08.15.
- */
 
 public class ImageUtils {
 
