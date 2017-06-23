@@ -11,9 +11,6 @@ import java.util.GregorianCalendar;
 import java.util.Locale;
 import java.util.TimeZone;
 
-/**
- * @author piotr on 16.05.16.
- */
 public class DateUtils {
 
     public static String getFormattedDate(Date date) {
